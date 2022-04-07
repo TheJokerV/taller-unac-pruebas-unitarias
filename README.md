@@ -14,3 +14,12 @@ Para lanzar las pruebas:
 Para instalar las dependencias:
 
 npm i
+
+
+Pruebas unitarias
+
+crazy-method.test.ts: se hicieron 3 pruebas unitarias
+mean-array.test.ts:  se hicieron 3 pruebas unitarias
+months-unac.test.ts:  se hicieron 3 pruebas unitarias
+sum-array.test.ts:  se hicieron 3 pruebas unitarias
+switch.test.ts:  se hicieron 3 pruebas unitarias
